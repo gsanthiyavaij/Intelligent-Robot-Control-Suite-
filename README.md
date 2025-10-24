@@ -69,9 +69,9 @@ Developed in **Python**, it integrates **voice, vision, and natural language cap
 |  (Operate robot remotely)   |
 +-----------------------------+
 
+```
 
-
-## 🧾 Outcome
+ 🧾 Outcome
 
 - Successfully deployed across multiple educational institutions.  
 - Reduced manual configuration by 60% through mobile-based control.  
