@@ -1,0 +1,22 @@
+# Core AI/ML and Computer Vision
+opencv-python
+deepface
+mediapipe
+numpy
+pandas
+
+# GUI frameworks
+customtkinter
+tkinter
+kivy
+PyQt5
+
+# Audio / Speech
+pyttsx3
+SpeechRecognition
+ffmpeg
+
+# Utilities
+qrcode
+pickle
+flask
