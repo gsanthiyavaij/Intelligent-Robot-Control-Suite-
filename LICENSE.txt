@@ -1,0 +1,8 @@
+Copyright (c) 2025 Entudio Private Limited
+
+This repository is shared for demonstration and portfolio purposes only.
+The source code and proprietary assets are confidential and not publicly distributed.
+Permission is granted to view, reference, or cite this project, 
+but not to copy, modify, or use it for commercial or production purposes.
+
+All rights reserved.
