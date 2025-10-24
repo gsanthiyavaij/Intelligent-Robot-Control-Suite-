@@ -35,10 +35,7 @@ Developed in **Python**, it integrates **voice, vision, and natural language cap
 - **Architecture:** Multi-threaded event-driven design with GUI + Flask backend integration  
 
 ---
-
-🏗️ System Architecture
-
-
+```text
 +-----------------------------+
 |         Robot Camera        |
 +--------------+--------------+
@@ -71,6 +68,7 @@ Developed in **Python**, it integrates **voice, vision, and natural language cap
 |     Mobile Browser Control  |
 |  (Operate robot remotely)   |
 +-----------------------------+
+
 
 
 ## 🧾 Outcome
